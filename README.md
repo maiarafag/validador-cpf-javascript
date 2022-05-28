@@ -40,5 +40,5 @@
 # Demonstracao
 
 <h1 align="center">
-  <img alt="Validador" title="#Validador" src="./validador-cpf-javascript/Imgg.png" />
+  <img alt="Validador" title="#Validador" src="./Imgg.png" />
 </h1>
